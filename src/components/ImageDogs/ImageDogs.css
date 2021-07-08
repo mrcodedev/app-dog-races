@@ -1,0 +1,36 @@
+.wrapper_images {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 35px 15px 15px 15px;
+}
+
+.wrapper_images .container-results,
+.wrapper_images .container-now {
+  text-align: center;
+}
+
+.wrapper_images .images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.wrapper_images .images img {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+.wrapper_images .container-buttons {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.wrapper_images .container-buttons button {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}

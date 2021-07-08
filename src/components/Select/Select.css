@@ -1,0 +1,10 @@
+.wrapper-select {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper-select select {
+  width: 80%;
+  height: 40px;
+}
